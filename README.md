@@ -62,6 +62,6 @@ A typical execution output is:
 
 ### i7-5820K Speedup (over original code)
 
-[](https://github.com/lovaj/parallelHesaff/blob/master/Figures/i7speedup.png)
+![](https://github.com/lovaj/parallelHesaff/blob/master/Figures/i7speedup.png)
 
 
