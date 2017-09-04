@@ -1,6 +1,6 @@
 # Parallel Hessian Affine (PHA) Detector with SIFT Descriptor
 
-OpenMP parallelization of  the Hessian Affine detector with SIFT descriptor (original code [here](http://github.com/perdoch/hesaff) ).
+OpenMP parallelization of  the Hessian Affine detector with SIFT descriptor (original code [here](http://github.com/perdoch/hesaff) ). Important details about this project can be found in the report file in this repository.
 
 ## Tested Architectures
 
@@ -43,7 +43,7 @@ A typical execution output is:
     descriptors.rows=41131
     avg descriptor time=2.13762
     avg parallel time=1.00586
-    
+
 ## Performance
 
 ### Datasets:
