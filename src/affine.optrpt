@@ -1,0 +1,7 @@
+Intel(R) Advisor can now assist with vectorization and show optimization
+  report messages with your source code.
+See "https://software.intel.com/en-us/intel-advisor-xe" for details.
+
+Intel(R) C++ Intel(R) 64 Compiler for applications running on Intel(R) 64, Version 17.0.3.191 Build 20170404
+
+Compiler options: -I/home/luca/ParallelOpenCV/install_icpc/include -DRATIOTHRESHOLD=0.23 -g -qopt-report=5 -Bdynamic -shared-intel -debug inline-debug-info -qopenmp-link dynamic -parallel-source-info=2 -ldl -O3 -ipo -simd -xCORE-AVX2 -parallel -qopenmp -fargument-noalias -ansi-alias -no-prec-div -fp-model fast=2 -fma -align -finline-functions -std=c++11 -c -o affine.o
